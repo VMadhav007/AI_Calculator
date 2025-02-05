@@ -1,0 +1,26 @@
+.canvas-div{
+    background-color: beige;
+}
+/* App.css */
+.result-div {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    max-width: 1200px;
+    word-wrap: break-word;
+  }
+  
+  .result-div h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .result-div pre {
+    white-space: pre-wrap; /* Ensure long lines wrap */
+    font-family: monospace;
+    font-size: 14px;
+    color: #555;
+  }
